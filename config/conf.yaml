@@ -1,0 +1,5 @@
+#mysql(键值对这件一定有空格)
+mysql:
+  port: 1234
+  user: "yang"
+  password: "123"
